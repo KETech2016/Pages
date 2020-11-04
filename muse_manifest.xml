@@ -1,0 +1,149 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://demo.muse-themes.com/template-codeignite" resolutions="1x" timestamp="1604519951142">
+  <folder name="css">
+    <file name="site_global.css" crc="3925136354"/>
+    <file name="quote.css" crc="272244159" ref="quote"/>
+    <file name="iefonts_quote.css" crc="127489611" ref="quote"/>
+    <file name="index.css" crc="3827267628" ref="index"/>
+    <file name="iefonts_index.css" crc="433341623" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>ryan:phone>laura:phone>jessica:phone>alex:index:quote"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>ryan:phone>laura:phone>jessica:phone>alex:index:quote"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>ryan:phone>laura:phone>jessica:phone>alex:index:quote"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>ryan:phone>laura:phone>jessica:phone>alex:index:quote"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>ryan:phone>laura:phone>jessica:phone>alex:index:quote"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="phone>index:phone>ryan:phone>laura:phone>jessica:phone>alex:index"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>index:phone>ryan:phone>laura:phone>jessica:phone>alex:index:quote"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>index:phone>ryan:phone>laura:phone>jessica:phone>alex:index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>index:phone>ryan:phone>laura:phone>jessica:phone>alex:index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>index:phone>ryan:phone>laura:phone>jessica:phone>alex:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="phone>index:phone>ryan:phone>laura:phone>jessica:phone>alex:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>ryan:phone>laura:phone>jessica:phone>alex:index:quote"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>ryan:phone>laura:phone>jessica:phone>alex:index:quote"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u6621.php" crc="3896389345" ref="index"/>
+    <file name="form-u7929.php" crc="3782642770" ref="quote"/>
+  </folder>
+  <folder name="images">
+    <file name="main_banner-u7413-fr.jpg" crc="292293950" ref="phone>index"/>
+    <file name="image5380x254.jpg" crc="465368519" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="image3379x284.jpg" crc="4289327824" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image1379x284.jpg" crc="344527486" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="main_banner380x254.jpg" crc="226222301" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image4380x253.jpg" crc="442384412" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btn-close.png" crc="304021129" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image5188x126.jpg" crc="333951769" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image3182x137.jpg" crc="448648219" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image1171x129.jpg" crc="3920639878" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="main_banner194x130.jpg" crc="315244787" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image4171x114.jpg" crc="294442745" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image5171x114.jpg" crc="271814130" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="musethemes_logo-crop-u7729.png" crc="495921278" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="main_banner.jpg" crc="535488239" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="macbookblank-u7684-fr.png" crc="3775470784" ref="index"/>
+    <file name="main_banner2.jpg" crc="3819773650" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image5-crop-u8127.jpg" crc="4168190840" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image3344x258.jpg" crc="3784314475" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image2.jpg" crc="3775985581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image1344x258.jpg" crc="3878603279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="main_banner-crop-u8133.jpg" crc="3807044606" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image4-crop-u8135.jpg" crc="3919204932" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image5.jpg" crc="160237320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image3.jpg" crc="3792178583" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image1.jpg" crc="128139921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="main_banner813x542.jpg" crc="4264308216" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image4.jpg" crc="3798024802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrow-prev-u8144.png" crc="4019548067" ref="index"/>
+    <file name="arrow-prev-u8144-r.png" crc="4095251432" ref="index"/>
+    <file name="arrow-next-u8158.png" crc="4240710410" ref="index"/>
+    <file name="arrow-next-u8158-r.png" crc="289146595" ref="index"/>
+    <file name="musethemes_logo-crop-u7736.png" crc="4143059321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iphone_silver.png" crc="534399090" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4003599345" ref="phone>laura:phone>alex:phone>ryan:phone>index:phone>jessica"/>
+      <file name="laura.css" crc="167888975" ref="phone>laura"/>
+      <file name="iefonts_laura.css" crc="97192768" ref="phone>laura"/>
+      <file name="alex.css" crc="405690233" ref="phone>alex"/>
+      <file name="iefonts_alex.css" crc="249970358" ref="phone>alex"/>
+      <file name="ryan.css" crc="343009050" ref="phone>ryan"/>
+      <file name="iefonts_ryan.css" crc="4079518965" ref="phone>ryan"/>
+      <file name="index.css" crc="73251763" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="413113021" ref="phone>index"/>
+      <file name="jessica.css" crc="3839571776" ref="phone>jessica"/>
+      <file name="iefonts_jessica.css" crc="3793477144" ref="phone>jessica"/>
+    </folder>
+    <file name="index.html" crc="75046716" seo="true" mt="1422229187297" redirect="true"/>
+    <file name="ryan.html" crc="3934638552" seo="true" mt="1422229187297" redirect="true"/>
+    <file name="laura.html" crc="4071794498" seo="true" mt="1422229187297" redirect="true"/>
+    <file name="jessica.html" crc="418559640" seo="true" mt="1422229187297" redirect="true"/>
+    <file name="alex.html" crc="3871729374" seo="true" mt="1422229187297" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4134128844" seo="true" mt="1604519891209" redirect="true"/>
+  <file name="quote.html" crc="343161118" seo="true" mt="1396240474503" redirect="true"/>
+</manifest>
